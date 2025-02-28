@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @coderPriyanshu007
-- 👀 I’m interested in Programming , Football and Trading
+- 👋 Hi, I’m Priyanshu Gusain
+- 👀 I’m interested in Programming , Football.
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Web development projects
  
